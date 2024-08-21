@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+   
+  }
+.todo{
+    background-color: white;
+    color: black;
+}
+
+
+.btn {
+   margin-top: 10px;
+}
